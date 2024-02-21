@@ -1,4 +1,1 @@
-welcome
-hello
-Rakhi
-STC
+Rakhi welcome
